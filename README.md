@@ -1,6 +1,6 @@
 # IGSCAPSTONE
 
-This repository contains my autobiography files, resumes, and screenshots.
+This repository contains my autobiography files, resumes, and screenshots for student Reg No. C026-01-0938/2022.
 
 ## Videos
 The project videos are too large to host on GitHub. You can view the full 20-minute presentations on Google Drive here:
